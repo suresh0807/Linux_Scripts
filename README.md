@@ -1,2 +1,2 @@
 # Linux_Scripts
-A set of scripts useful to do some quick statistical and data manipulation work.
+A set of bash scripts useful to do some quick statistical and data manipulation work. 
